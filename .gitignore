@@ -1,0 +1,8 @@
+*.bak
+*.sch-bak
+*.kicad_pcb-bak
+*.lib
+*gerber*
+*autosave*
+sym-lib-table
+*cache*
